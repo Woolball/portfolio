@@ -4,7 +4,7 @@ backend:
   branch: main
   auth_scope: repo
   app_id: Iv23lid9Tcz05NLDUB7z
-  base_url: https://github.com
+  base_url: https://woolball.github.io/portfolio/
 media_folder: static/images/uploads
 public_folder: /images/uploads
 collections:
