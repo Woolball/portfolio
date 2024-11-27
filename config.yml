@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Woolball/portfolio
+  repo: woolball/portfolio
   branch: main
   auth_scope: repo
   app_id: Iv23lid9Tcz05NLDUB7z
