@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: your-username/portfolio
+  repo: Woolball/portfolio
   branch: main
 media_folder: static/images/uploads
 public_folder: /images/uploads
